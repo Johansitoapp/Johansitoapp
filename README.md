@@ -14,7 +14,7 @@ Binvenidos/as Soy Johansitoapp desarrollador de aplicaciones hibridas
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Johansitoapp&theme=radical&no-frame=true&no-bg=false&margin-w=4)<br> <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="escritura nativa">
+![](https://github-profile-trophy.vercel.app/?username=Johansitoapp&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
