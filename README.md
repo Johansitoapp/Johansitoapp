@@ -1,5 +1,5 @@
 # 💫 About Me:
-Binvenidos/as Soy Johansitoapp desarrollador de aplicaciones hibridas
+Binvenidos/as Soy pouper desarrollador de app hibridas senior 
 
 
 ## 🌐 Socials:
