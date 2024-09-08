@@ -1,5 +1,5 @@
 # 💫 About Me:
-Binvenidos/as Soy pouper desarrolladora de app hibridas senior 
+Binvenidos/as Soy pouper 
 
 
 ## 🌐 Socials:
